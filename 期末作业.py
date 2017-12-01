@@ -38,6 +38,7 @@ for page in range (1,71):
     input = raw_input()    
     if input == "Q":       
         break
+    print "******************************下一页******************************\n"
 
 
     
